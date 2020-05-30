@@ -5,7 +5,7 @@
 Bikeshare data exploration
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare data in New York, Chicago, and Washington were explored on various aspects
 
 ### Files used
 Include the files used
